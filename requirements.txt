@@ -50,7 +50,9 @@ scipy==0.19.1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.11.0
+sklearn-evaluation==0.4
 subprocess32==3.2.7
+tabulate==0.8.1
 terminado==0.6
 testpath==0.3.1
 tornado==4.5.2
